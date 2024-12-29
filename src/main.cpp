@@ -40,5 +40,7 @@ int main(int argc, char** argv) {
         ClearBackground(BLACK);
         EndDrawing();
 
+        CloseWindow();
+
     }
 }
